@@ -10,6 +10,7 @@ Main repository having a list of EDA projects that consist of python scripts for
 - [Comparing Dengue Outbreaks based on Temperature and Humidity](https://github.com/fromsantanu/Project6-EDA-Dengue-Outbreaks-Kolkata-Analyzed)  : Dengue outbreaks in Kolkata analyzed based on temperature and humidity during different months of the year. Line plots showing comparison in a single chart.
 - [Heart Failure Trend Compared for Smokers and Alcoholics](https://github.com/fromsantanu/Project7-EDA-Heart-Failures-Kolkata-Compared)  : Heart Failure Trend Compared for Smokers and Alcoholics in Kolkata during different months of the year. Line plots showing comparison in a single chart.
 - [Heart Failures by Religion and Cities](https://github.com/fromsantanu/Project8-EDA-Heart-Failures-By-Religion-and-Cities)  : Incidents of heart failures observed among various religions in India along with incidents happening in different cities.
+- [Incidents of Deaths due to Lung Cancer](https://github.com/fromsantanu/Project9-EDA-Deaths-Yearly-Due-To-Lung-Cancer)  : Deaths due to Lung Cancer by Risk Factors of Smoking, Aloholism and being a COPD patient (2018-2023) plotted as bar charts.
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
