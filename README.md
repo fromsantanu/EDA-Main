@@ -7,6 +7,7 @@ Main repository having a list of EDA projects that consist of python scripts for
 
 - [Generating Choropleth Map For Dengue](https://github.com/fromsantanu/Project2-EDA-Dengue-Outbreak-ChoroplethMap)  : It consists of python scripts of exploratory data analysis geospatial distribution of Dengue outbreak in specific states of India.
 - [Generating Heatmap for Dengue](https://github.com/fromsantanu/Project3-EDA-Dengue-Outbreak-Heatmap)  : It consists of python scripts of exploratory data analysis geospatial distribution of Dengue outbreak in specific cities of India.
+- [Heatmap for TB Sufferers](https://github.com/fromsantanu/Project4-EDA-HeatMap-TB-Sufferers-In-India)  : It consists of python scripts of exploratory data analysis geospatial distribution of TB seffers in specific cities of India.
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
