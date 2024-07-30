@@ -1,4 +1,5 @@
-# EDA-Main : Exploratory Data Analysis  (EDA)  ![HitCount](https://hits.dwyl.com/fromsantanu/EDA-Main.svg)
+# EDA-Main : Exploratory Data Analysis  (EDA)  
+![HitCount](https://hits.dwyl.com/fromsantanu/EDA-Main.svg) <br>
 Main repository having a list of EDA projects that consist of python scripts for exploratory data analysis on data related to various disease outbreaks, its causes, behavioral aspects etc .
 
 ## Watch the Intro 
